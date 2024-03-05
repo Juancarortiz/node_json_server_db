@@ -1,0 +1,96 @@
+{
+  "profesores": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "materias": [
+        {
+          "nombre": "Matematicas"
+        },
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ],
+      "id": "1245"
+    },
+    {
+      "nombre": "Jorge",
+      "apellido": "Andrade",
+      "materias": [
+        {
+          "nombre": "Matematicas"
+        },
+        {
+          "nombre": "Quimica"
+        }
+      ],
+      "id": "2229"
+    },
+    {
+      "id": "6952",
+      "nombre": "Eliana",
+      "apellido": "Mendez",
+      "materias": [
+        {
+          "nombre": "Ingles"
+        },
+        {
+          "nombre": "Ortografia"
+        }
+      ]
+    },
+    {
+      "id": "ec10",
+      "nombre": "Carlos",
+      "apellido": "Argaues",
+      "materias": [
+        {
+          "nombre": "catedra"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "edad": 17,
+      "sexo": "femenino",
+      "id": "ca92"
+    },
+    {
+      "nombre": "Jose",
+      "edad": 17,
+      "sexo": "Masculino",
+      "id": "bb40"
+    },
+    {
+      "nombre": "Juan",
+      "edad": 18,
+      "sexo": "Maculino",
+      "id": "c4c6"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NOde JS desde 0",
+      "duracion": 7,
+      "promedio": "10",
+      "id": "274b"
+    },
+    {
+      "nombre": "ReactJS desde 0",
+      "duracion": 8,
+      "promedio": "10",
+      "id": "aa27"
+    },
+    {
+      "nombre": "Angular 17  desde 0",
+      "duracion": 9,
+      "promedio": "10",
+      "id": "8713"
+    }
+  ]
+}

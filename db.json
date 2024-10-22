@@ -51,6 +51,19 @@
           "nombre": "catedra"
         }
       ]
+    },
+    {
+      "id": "1245",
+      "nombre": "jorge",
+      "apellido": "Ortiz",
+      "materias": [
+        {
+          "nombre": "Matematicas"
+        },
+        {
+          "nombre": "Quimica"
+        }
+      ]
     }
   ],
   "alumnos": [
